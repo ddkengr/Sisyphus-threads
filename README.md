@@ -1,2 +1,0 @@
-# Sisyphus-threads
-Sisyphus patterns
